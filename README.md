@@ -27,7 +27,7 @@ mindmap
     Output
       Top candidates
       Lowest candidates
-      Final verdict'''
+      Final verdict
 
 
 ---
