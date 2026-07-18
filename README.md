@@ -72,6 +72,15 @@ Clone the repository and install dependencies:
 git clone https://github.com/hrithik0408/Resume_Analyzer.git
 cd Resume_Analyzer
 pip install -r requirements.txt
+```
+
+## 🔑 API Key Setup
+
+This project uses the **Groq API** for AI-powered resume and job description analysis.  
+To run the project, you need to set your API key in a `.env` file.
+
+1. Create a file named `.env` in the root of the project.
+2. Add your API key like this:
 
 
 
