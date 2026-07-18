@@ -30,7 +30,7 @@ mindmap
       Final verdict
 
 
----
+
 
 ## 📐 Architecture Overview
 
