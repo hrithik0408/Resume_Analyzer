@@ -4,6 +4,8 @@ Resume Analyzer is a Python project that leverages AI to parse resumes (PDF/DOCX
 It extracts structured information such as skills, education, and experience, calculates match scores, highlights missing skills, and ranks candidates.  
 This tool helps recruiters shortlist faster and job seekers benchmark their resumes.
 
+---
+
 ## 🧠 Architecture Mind Map
 
 ```mermaid
@@ -28,9 +30,7 @@ mindmap
       Top candidates
       Lowest candidates
       Final verdict
-
-
-
+```
 
 ## 📐 Architecture Overview
 
@@ -72,4 +72,6 @@ Clone the repository and install dependencies:
 git clone https://github.com/hrithik0408/Resume_Analyzer.git
 cd Resume_Analyzer
 pip install -r requirements.txt
+
+
 
